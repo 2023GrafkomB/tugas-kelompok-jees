@@ -1,0 +1,17 @@
+.controls {
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  background: black;
+  opacity: 0.5;
+  color: white;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+p.controls-text,
+a.controls-link {
+  font-family: monospace;
+  font-size: 12px;
+  letter-spacing: 0.75px;
+}
